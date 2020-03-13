@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="670d9b32-4cb8-4f61-87f5-817f3bc5aecf" name="GPU2" url="http://18.206.187.240">
+        <fileTransfer host="18.206.187.240" port="22" privateKey="C:\Users\Administrator\Desktop\密钥\OHIO_x.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
